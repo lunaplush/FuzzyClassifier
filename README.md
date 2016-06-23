@@ -1,2 +1,2 @@
-# FuzzyClassifier
-First experience
+# FuzzyClassifier 
+метод нечеткой классификации для задачи идентификационной экспертизы
